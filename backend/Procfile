@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT musixpace_5112.wsgi:application
